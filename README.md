@@ -91,3 +91,8 @@
 - 什么是登入的统一解决方案？
 
 ![image-20220830231313117](public/image-20220830231313117.png)
+
+### nodejs处理http请求
+- get和querystring: url参数
+- post和postdata
+- 路由
